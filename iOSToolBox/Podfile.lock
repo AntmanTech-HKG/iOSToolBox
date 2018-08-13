@@ -1,0 +1,111 @@
+PODS:
+  - Alamofire (4.7.3)
+  - DateToolsSwift (4.0.0)
+  - Firebase/Core (5.4.1):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.0.1)
+  - Firebase/CoreOnly (5.4.1):
+    - FirebaseCore (= 5.0.6)
+  - Firebase/Messaging (5.4.1):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (= 3.0.3)
+  - FirebaseAnalytics (5.0.1):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (5.0.6):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseInstanceID (3.1.1):
+    - FirebaseCore (~> 5.0)
+  - FirebaseMessaging (3.0.3):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.1)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - GoogleToolboxForMac/Logger (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - "GoogleToolboxForMac/NSData+zlib (2.1.4)":
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - Hue (3.0.1)
+  - IQKeyboardManagerSwift (6.1.1)
+  - Kingfisher (4.8.1)
+  - Localize-Swift (2.0.0)
+  - M13ProgressSuite (1.2.9)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - Protobuf (3.6.0)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.1.0)
+  - SwiftyUserDefaults (3.0.1)
+  - Whisper (6.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - DateToolsSwift
+  - Firebase/Core
+  - Firebase/Messaging
+  - Hue
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Localize-Swift
+  - M13ProgressSuite
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+  - SwiftyUserDefaults
+  - Whisper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DateToolsSwift
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - GoogleToolboxForMac
+    - Hue
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Localize-Swift
+    - M13ProgressSuite
+    - nanopb
+    - Protobuf
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+    - SwiftyUserDefaults
+    - Whisper
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  DateToolsSwift: 875d97ff9e3a5d54abdd67a269b3f51c757b71ab
+  Firebase: 355bd535bfdacaa82a7fe8d9784115edefd6fc03
+  FirebaseAnalytics: b3628aea54c50464c32c393fb2ea032566e7ecc2
+  FirebaseCore: 4c28e3b9708ba48a765e76515f913a71596eb5dd
+  FirebaseInstanceID: f3f0657372592ecdfdfe2cac604a5a75758376a6
+  FirebaseMessaging: f43eb0c0e1da096e659de6f713038e74862a62cd
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  M13ProgressSuite: ea9f7263e73e9215e6849dfa54e29ee0ad6a145c
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  Protobuf: 0fc0ad8bec688b2a3017a139953e01374fedbd5f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  Whisper: 169760fc4bab0abf24d5529f9276f95c25cf1025
+
+PODFILE CHECKSUM: 92409797f9150e3d63188a62ef5be3f1778edd63
+
+COCOAPODS: 1.5.3
